@@ -1,0 +1,7 @@
+__pycache__/
+build/
+*.zip
+save.json
+highscore.txt
+.kilo/
+.vscode/
